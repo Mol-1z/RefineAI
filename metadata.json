@@ -1,0 +1,6 @@
+{
+  "name": "AI Email Optimizer",
+  "description": "A high-performance email optimizer utility powered by Gemini to craft, refine, and summarize emails in multiple styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
